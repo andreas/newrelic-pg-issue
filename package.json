@@ -1,0 +1,16 @@
+{
+  "name": "newrelic-pg-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^15.5.0",
+    "jsonapi-renderer": "^1.2.5",
+    "newrelic": "^7.1.1",
+    "pg": "^8.5.1"
+  }
+}
